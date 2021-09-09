@@ -1,9 +1,5 @@
 
-# Assignment 4: Quicksort Experimentation
-
-#### Name
-
-Shefali Khatri
+# Quicksort Experimentation
 
 ## Objectives
 
@@ -92,17 +88,3 @@ Second, I learned how the runtime changed using variations of quicksort. To cond
 |Alg C:| 144  |  1196  | 2433  | 6252  | 13241  | 40542   | 
 |Alg D:| 105  |  2312  | 7565  | 42965 | 175611 | 16495512|     
 
-
-## Summary of Overall Assignment
-
-1. Resources used: Youtube HackerRank video on Quicksort algorithm, GeekforGeeks website to understand how to shuffle elements, wikipedia to understand insertion sort, stack overflow
-   for how to pass a method as a parameter
-
-2. Time spent on the assignment: 30-40 hours
-
-3. What was the most challenging part of this assignment? The directions were a little unclear which required me to rethink and revise my code multiple times.
-
-4. What did you like about this assignment? It allowed me to understand how the different algorithms perform in practice instead of just thinking of big O complexity. This code also
-required me to think outside the box about organization.
-
-5. How could this assignment be improved? A bit more clarity in the assignment description 
